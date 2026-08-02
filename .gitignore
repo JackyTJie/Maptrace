@@ -1,8 +1,0 @@
-# Ignore everything by default
-*
-!*/
-
-# Allow only scripts and docs
-!*.py
-!*.md
-!.gitignore
